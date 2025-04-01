@@ -3,7 +3,7 @@
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 --- 
-
+## Description
 MAC_Spoofer is a simple tool designed to automate MAC address spoofing of a network interface (wired or wireless) for Linux based systems. Use it to bypass Network Access Control(NAC) in Active Directory(AD) environments, enhance privacy, and test networks with ease.
 
 ---
