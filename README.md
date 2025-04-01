@@ -19,7 +19,7 @@ MAC_Spoofer is a simple tool designed to automate MAC address spoofing of a netw
 1. Clone the repository:
 ```
 git clone https://github.com/GheekyByt3/MAC_Spoofer
-cd mac_spoofer
+cd MAC_Spoofer
 ```
 
 
