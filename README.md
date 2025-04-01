@@ -15,13 +15,13 @@ MAC_Spoofer is a Bash script tool designed to spoof the MAC address of any netwo
 1. Clone the repository:
 ```
 git clone https://github.com/yourusername/macspoofer.git
-cd macspoofer
+cd mac_spoofer
 ```
 
 
 2. Make the script executable:
 ```
-chmod +x macspoofer.sh
+chmod +x mac_spoofer.sh
 ```
 
 3. Install `macchanger`:
@@ -35,18 +35,18 @@ sudo apt update && sudo apt install macchanger
 Run the script with root privileges:
 
 ```
-sudo ./macspoofer.sh <interface> <new_mac_address>
+sudo ./mac_spoofer.sh <interface> <new_mac_address>
 ```
 
 ### Examples:
 - Set a specific MAC for `eth0`:
 ```
-sudo ./macspoofer.sh eth0 EC:C0:18:D3:28:34
+sudo ./mac_spoofer.sh eth0 EC:C0:18:D3:28:34
 ```
 
 - Randomize the MAC for `wlan0`:
 ```
-sudo ./macspoofer.sh wlan0 AA:BB:CC:DD:EE:FF
+sudo ./mac_spoofer.sh wlan0 AA:BB:CC:DD:EE:FF
 ```
 
 ---
