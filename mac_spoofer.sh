@@ -32,11 +32,11 @@ fi
 sudo ifconfig $INTERFACE down
 
 # Changes the MAC address
-echo # Adds an empty line
+echo
 sudo macchanger -m $NEW_MAC $INTERFACE
 
 # Brings the network interface back up
-echo # Adds an empty line
+echo 
 sudo ifconfig $INTERFACE up
 
 echo "MAC address for $INTERFACE successfully changed to $NEW_MAC."
