@@ -60,4 +60,4 @@ sudo ./mac_spoofer.sh wlan0 AA:BB:CC:DD:EE:FF
 ---
 
 ## License
-This project is licensed under the MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
