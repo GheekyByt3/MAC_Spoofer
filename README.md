@@ -1,6 +1,6 @@
 # MAC_Spoofer
 
-MAC_Spoofer is a Bash script tool designed to spoof the MAC address of any network interface (wired or wireless). Use it to bypass Network Access Control(NAC), enhance privacy, or test networks with ease.
+MAC_Spoofer is a Bash script tool designed to spoof the MAC address of any network interface (wired or wireless). Use it to bypass Network Access Control(NAC), enhance privacy, and test networks with ease.
 
 ---
 
